@@ -2,3 +2,8 @@ body {
     /* debug */
     background-color: darkcyan;
 }
+
+header {
+    background-color: rgb(66, 66, 66);
+    color: white;
+}
